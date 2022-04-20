@@ -1,2 +1,2 @@
 SQL: //find errors
-	1. join Customers TO Orders.CustomerID = Customers.CustomerID
+	1. INNER join Customers ON Orders.CustomerID = Customers.Customer
