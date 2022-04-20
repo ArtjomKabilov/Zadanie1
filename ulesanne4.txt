@@ -3,4 +3,4 @@ My exercise //find errors
 	      <div>
                   <img src=img_girl.jpg> 
 	      </div>
-	   <body>
+	   </body> /* neljas viga */
