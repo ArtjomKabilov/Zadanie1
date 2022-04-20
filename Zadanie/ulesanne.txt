@@ -1,2 +1,0 @@
-SQL: //find errors
-	1. select from Customers

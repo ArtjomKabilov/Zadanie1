@@ -1,6 +1,0 @@
-My exercise //find errors
-	1. <body>
-	      <div>
-                  <img src=img_girl.jpg> 
-	      </div>
-	   <body>

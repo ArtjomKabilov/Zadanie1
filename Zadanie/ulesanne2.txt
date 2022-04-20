@@ -1,2 +1,0 @@
-SQL: //find errors
-	1. join Customers TO Orders.CustomerID = Customers.CustomerID
